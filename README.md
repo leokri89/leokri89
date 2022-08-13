@@ -26,11 +26,18 @@ Here are some ideas to get you started:
 - :star::star::star::star::star: SQL
 - :star::star::star::star: MySQL
 - :star::star::star: Python
+- :star::star::star: FastAPI
+- :star::star::star::star: Pandas
+- :star::star::star::star: Machine Learning (Supervised)
 - :star: Golang
 - :star::star::star::star: AWS
 - :star::star::star: GCP
 - :star::star::star::star::star: PC Hardware
-- :star::star::star: wExcel
+- :star::star::star: Excel
 - :star::star::star::star: VSCode
-- :star::star::star: Database
+- :star::star::star: General Database
 - :star::star::star: MongoDB
+- :star::star::star: Rest API
+- :star::star: Network
+- :star::star::star: Linux
+- :star::star::star: IT Process
