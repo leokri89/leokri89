@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning how to use Golang to create fast Rest API with JWT authentication
+- 👯 I’m looking to collaborate on make world better and equity
+- 🤔 I’m looking for help with my own business, I dream to have my own company to make difference in the society
+- 💬 Ask me about anything interesting, I'll appreciate.
+- 😄 Pronouns: He/Him
