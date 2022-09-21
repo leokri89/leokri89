@@ -23,21 +23,24 @@ Here are some ideas to get you started:
 
 ### Technology and my knowledge (more star more knowledge)
 
+- :star::star::star::star::star: PC Hardware
 - :star::star::star::star::star: SQL
 - :star::star::star::star: MySQL
+- :star::star::star::star: Pandas
+- :star::star::star::star: VSCode
+- :star::star::star::star: AWS
 - :star::star::star: Python
 - :star::star::star: FastAPI
-- :star::star::star::star: Pandas
-- :star::star::star::star: Machine Learning (Supervised)
-- :star: Golang
-- :star::star::star::star: AWS
+- :star::star::star: Machine Learning (Supervised)
+- :star::star::star: Docker
 - :star::star::star: GCP
-- :star::star::star::star::star: PC Hardware
 - :star::star::star: Excel
-- :star::star::star::star: VSCode
 - :star::star::star: General Database
 - :star::star::star: MongoDB
 - :star::star::star: Rest API
-- :star::star: Network
 - :star::star::star: Linux
 - :star::star::star: IT Process
+- :star::star: Kubernetes
+- :star::star: Network
+- :star: Golang
+- :star: Flutter
