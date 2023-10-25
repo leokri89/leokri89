@@ -24,18 +24,20 @@ Here are some ideas to get you started:
 ### Technology and my knowledge (more star more knowledge)
 
 - :star::star::star::star::star: PC Hardware
+- :star::star::star::star::star: AWS Redshift
 - :star::star::star::star::star: SQL
+- :star::star::star::star: General Database
+- :star::star::star::star: Docker
 - :star::star::star::star: MySQL
 - :star::star::star::star: Pandas
 - :star::star::star::star: VSCode
 - :star::star::star::star: AWS
+- :star::star::star::star: CICD
 - :star::star::star: Python
 - :star::star::star: FastAPI
 - :star::star::star: Machine Learning (Supervised)
-- :star::star::star: Docker
 - :star::star::star: GCP
 - :star::star::star: Excel
-- :star::star::star: General Database
 - :star::star::star: MongoDB
 - :star::star::star: Rest API
 - :star::star::star: Linux
@@ -44,3 +46,4 @@ Here are some ideas to get you started:
 - :star::star: Network
 - :star: Golang
 - :star: Flutter
+- :star: Bootstrap
