@@ -15,35 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently pursuing a postgraduate degree in artificial intelligence.
+- 🌱 I’m postgraduate degree in artificial intelligence.
 - 👯 I’m looking to collaborate on make world better and equity.
-- 🤔 I’m looking for help with my own business, I dream to have my own company to make difference in the society.
+- 🤔 I’m looking for help with my own business.
 - 💬 Ask me about anything interesting, I'll appreciate.
 
 ### Technology and my knowledge (more star more knowledge)
 
-- :star::star::star::star::star: PC Hardware
-- :star::star::star::star::star: AWS Redshift
+- :star::star::star::star::star: Hardware PC / Servers
+- :star::star::star::star::star: AWS Services
+- :star::star::star::star::star: Database
 - :star::star::star::star::star: SQL
-- :star::star::star::star: Database
-- :star::star::star::star: Docker
-- :star::star::star::star: AWS
+- :star::star::star::star: Artificial Intelligence / Machine Learning
+- :star::star::star::star: Rest API Creation
+- :star::star::star::star: Kubernetes / Docker
 - :star::star::star::star: CICD
-- :star::star::star: FastAPI
-- :star::star::star: Machine Learning
-- :star::star::star: GCP
-- :star::star::star: Excel
-- :star::star::star::star: Rest API
+- :star::star::star: GCP Services
 - :star::star::star: Linux
-- :star::star: Kubernetes
-- :star::star: Network
-- :star::star::star::star: Real-time analytics with Apache Flink
-- :star::star::star::star: Apache Iceberg
 
 ### Programming Languages
-- :star::star::star::star: Python
+- :star::star::star::star::star: Python
 - :star::star::star: Javascript
+- :star::star::star: Terraform
+- :star::star: React.js
 - :star::star: Java
-- :star::star: Vue
 - :star: Golang
-- :star: Flutter
