@@ -43,7 +43,3 @@ I enjoy building scalable systems, automating infrastructure, and applying AI to
 - ⭐⭐ Golang  
 
 ---
-
-📫 **How to reach me**
-- LinkedIn: *add your link here*
-- Email: *optional*
