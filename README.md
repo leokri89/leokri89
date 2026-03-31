@@ -1,42 +1,47 @@
-### Hi there 👋
+## Hi there 👋 I'm Leonardo
 
-<!--
-**leokri89/leokri89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** with strong background in **Cloud, DevOps, and Artificial Intelligence**.  
+I enjoy building scalable systems, automating infrastructure, and applying AI to real-world problems.
 
-Here are some ideas to get you started:
+- 🌱 Postgraduate degree in **Artificial Intelligence**
+- 👯 Looking to collaborate on projects that make the world more **fair, efficient, and equitable**
+- 🤔 Open to advice and partnerships for building my **own business**
+- 💬 Feel free to ask me about **cloud, backend, DevOps, or AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-- 🌱 I’m postgraduate degree in artificial intelligence.
-- 👯 I’m looking to collaborate on make world better and equity.
-- 🤔 I’m looking for help with my own business.
-- 💬 Ask me about anything interesting, I'll appreciate.
+## 🛠️ Technologies & Expertise  
+*(Self-assessed proficiency: more ⭐ = more experience)*
 
-### Technology and my knowledge (more star more knowledge)
+### ☁️ Cloud & Infrastructure
+- ⭐⭐⭐⭐⭐ AWS Services  
+- ⭐⭐⭐ GCP Services  
+- ⭐⭐⭐⭐⭐ Hardware / Servers  
 
-- :star::star::star::star::star: Hardware PC / Servers
-- :star::star::star::star::star: AWS Services
-- :star::star::star::star::star: Database
-- :star::star::star::star::star: SQL
-- :star::star::star::star: Artificial Intelligence / Machine Learning
-- :star::star::star::star: Rest API Creation
-- :star::star::star::star: Kubernetes / Docker
-- :star::star::star::star: CICD
-- :star::star::star: GCP Services
-- :star::star::star: Linux
+### ⚙️ DevOps & Platform
+- ⭐⭐⭐⭐ Linux  
+- ⭐⭐⭐⭐ Kubernetes / Docker  
+- ⭐⭐⭐⭐ CI/CD  
+- ⭐⭐⭐⭐ Infrastructure as Code (Terraform)
 
-### Programming Languages
-- :star::star::star::star::star: Python
-- :star::star::star: Javascript
-- :star::star::star: Terraform
-- :star::star: React.js
-- :star::star: Java
-- :star: Golang
+### 🧠 Data & AI
+- ⭐⭐⭐⭐⭐ Databases & SQL  
+- ⭐⭐⭐⭐ Artificial Intelligence / Machine Learning  
+
+### 🔌 Backend & APIs
+- ⭐⭐⭐⭐ REST API Design and Development  
+
+---
+
+## 💻 Programming Languages
+- ⭐⭐⭐⭐⭐ Python  
+- ⭐⭐⭐ JavaScript  
+- ⭐⭐⭐ Terraform  
+- ⭐⭐ Java  
+- ⭐⭐ Golang  
+
+---
+
+📫 **How to reach me**
+- LinkedIn: *add your link here*
+- Email: *optional*
