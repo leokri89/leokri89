@@ -30,7 +30,9 @@ I enjoy building scalable systems, automating infrastructure, and applying AI to
 
 ### 🔌 Backend & APIs
 - ⭐⭐⭐⭐ REST API Design and Development  
-
+- ⭐⭐⭐⭐ Clean Architecture
+- ⭐⭐ Domain Driven Development
+  
 ---
 
 ## 💻 Programming Languages
